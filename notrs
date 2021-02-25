@@ -1,0 +1,6 @@
+export default()=> (
+  <SafeAreaView style={style.App}>
+    <Text>TESTE</Text>
+            
+   </SafeAreaView>
+)
